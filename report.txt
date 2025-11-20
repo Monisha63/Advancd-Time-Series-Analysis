@@ -1,0 +1,7 @@
+Advanced Time Series Forecasting Report
+Generated: 2025-11-20 10:38:07.041932
+
+Transformer Model Results:
+MAE: 535.0154
+RMSE: 638.1441
+MAPE: 9.00%
